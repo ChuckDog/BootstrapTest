@@ -1,0 +1,9 @@
+img {
+	width: 300px;
+	height: 150px;
+}
+
+.features .glyphicon {
+	font-size: 32px;
+	color: blue;
+}
